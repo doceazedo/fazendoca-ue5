@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/uOO336t.gif">
+  <img src="https://i.imgur.com/AU4PtSv.gif">
 </p>
 
 ## Requirements
